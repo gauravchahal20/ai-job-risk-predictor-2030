@@ -108,7 +108,7 @@ Deployment
 This project is deployed using Streamlit Community Cloud.
 
 Live App:
-https://your-app-name.streamlit.app
+https://ai-job-risk-predictor-2030.streamlit.app/
 
 Use Cases
 Students planning their careers
